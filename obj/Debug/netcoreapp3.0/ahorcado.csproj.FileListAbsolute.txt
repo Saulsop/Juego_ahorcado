@@ -1,0 +1,11 @@
+C:\Users\MARGARITA\Documents\ahorcado\bin\Debug\netcoreapp3.0\ahorcado.exe
+C:\Users\MARGARITA\Documents\ahorcado\bin\Debug\netcoreapp3.0\ahorcado.deps.json
+C:\Users\MARGARITA\Documents\ahorcado\bin\Debug\netcoreapp3.0\ahorcado.runtimeconfig.json
+C:\Users\MARGARITA\Documents\ahorcado\bin\Debug\netcoreapp3.0\ahorcado.runtimeconfig.dev.json
+C:\Users\MARGARITA\Documents\ahorcado\bin\Debug\netcoreapp3.0\ahorcado.dll
+C:\Users\MARGARITA\Documents\ahorcado\bin\Debug\netcoreapp3.0\ahorcado.pdb
+C:\Users\MARGARITA\Documents\ahorcado\obj\Debug\netcoreapp3.0\ahorcado.csprojAssemblyReference.cache
+C:\Users\MARGARITA\Documents\ahorcado\obj\Debug\netcoreapp3.0\ahorcado.AssemblyInfoInputs.cache
+C:\Users\MARGARITA\Documents\ahorcado\obj\Debug\netcoreapp3.0\ahorcado.AssemblyInfo.cs
+C:\Users\MARGARITA\Documents\ahorcado\obj\Debug\netcoreapp3.0\ahorcado.dll
+C:\Users\MARGARITA\Documents\ahorcado\obj\Debug\netcoreapp3.0\ahorcado.pdb
